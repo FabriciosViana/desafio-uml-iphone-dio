@@ -2,6 +2,8 @@
 
 Este é o repositório contendo a solução para o desafio de POO, que consiste na modelagem e implementação do componente iPhone. Abaixo estão as instruções para entender e utilizar este código.
 
+<img src="iphone-poo-desafio.drawio.png">
+
 ## Estrutura do Repositório
 
 - **README.md**: Este arquivo, fornecendo informações sobre o desafio, sua solução e instruções para utilização.
